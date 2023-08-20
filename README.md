@@ -1,11 +1,9 @@
-# Python_Tutorial_With_Google_Colab
+# AIML_Course_Content
 
-In this tutorial, we will cover:
 
-Basic Python: Basic data types (Containers, Lists, Dictionaries, Sets, Tuples), Functions, Classes
+In this you will get the Total courses and materials of Artificial Intelligence and Machine Learning which is provided by IIIT-Hyderabad 
 
-Numpy: Arrays, Array indexing, Datatypes, Array math, Broadcasting
+| Days | Description |
+| --- | --- |
+| Day-1 |  Introduction to Linear Algebra and Python Tutorial with Google Colab |
 
-Matplotlib: Plotting, Subplots, Images
-
-IPython: Creating notebooks, Typical workflows
