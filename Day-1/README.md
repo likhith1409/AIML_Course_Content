@@ -1,9 +1,9 @@
-In this tutorial, we will cover:
+# In this tutorial, we will cover:
 
-Basic Python: Basic data types (Containers, Lists, Dictionaries, Sets, Tuples), Functions, Classes
+* Basic Python: Basic data types (Containers, Lists, Dictionaries, Sets, Tuples), Functions, Classes
 
-Numpy: Arrays, Array indexing, Datatypes, Array math, Broadcasting
+* Numpy: Arrays, Array indexing, Datatypes, Array math, Broadcasting
 
-Matplotlib: Plotting, Subplots, Images
+* Matplotlib: Plotting, Subplots, Images
 
-IPython: Creating notebooks, Typical workflows
+* IPython: Creating notebooks, Typical workflows
